@@ -41,7 +41,7 @@
 2. Make changes in your own repository 
    - Students to fill the lines below, commit and push the changes
    
-         Year of study: 4
+         Year of study: 4.
          Number of lectures today: 3
 
 # Other tools
